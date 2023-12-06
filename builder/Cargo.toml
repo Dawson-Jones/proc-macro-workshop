@@ -20,5 +20,8 @@ trybuild = { version = "1.0.49", features = ["diff"] }
 # TODO
 # 01-pare.rs
 syn = { version = "2.0.39", features = ["extra-traits"] }
+# syn = { version = "0.15", features = ["extra-traits"] }
 # 02-create-builder.rs
 quote = "1.0.33"
+# quote = "0.6"
+# proc-macro2 = "0.4"
